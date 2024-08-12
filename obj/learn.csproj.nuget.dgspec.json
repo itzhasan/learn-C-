@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\learn\\learn.csproj": {}
+    "D:\\web\\learn-C-\\learn.csproj": {}
   },
   "projects": {
-    "C:\\C#\\learn\\learn.csproj": {
+    "D:\\web\\learn-C-\\learn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\learn\\learn.csproj",
+        "projectUniqueName": "D:\\web\\learn-C-\\learn.csproj",
         "projectName": "learn",
-        "projectPath": "C:\\C#\\learn\\learn.csproj",
-        "packagesPath": "C:\\Users\\nass1\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\learn\\obj\\",
+        "projectPath": "D:\\web\\learn-C-\\learn.csproj",
+        "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
+        "outputPath": "D:\\web\\learn-C-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nass1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
